@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="math2@59.72.111.42:22 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="math2@59.72.111.42:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/math2/xugang/pytorch" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="math2@59.72.111.42:22 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/math2/xugang/tensorflow" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

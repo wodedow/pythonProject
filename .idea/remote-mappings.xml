@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://math2@59.72.111.42:22/home/math2/Anaconda/envs/pytorch_gpu/bin/python" />
+      </list>
+    </list>
+  </component>
+</project>
